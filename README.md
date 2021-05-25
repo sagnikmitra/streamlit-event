@@ -27,7 +27,7 @@ code.visualstudio.com
 ### [Download VSCode](https://code.visualstudio.com/download)
 
 [18:24] Sagnik Mitra
-### [Download Pyhon 3.9](https://www.python.org/downloads/release/python-395)
+### [Download Python 3.9](https://www.python.org/downloads/release/python-395)
 
 
 [18:24] Sagnik Mitra\
