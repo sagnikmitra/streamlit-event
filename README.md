@@ -45,7 +45,7 @@ Run first app:
 streamlit hello
 ```
 
-### Projects Showcased:
+## Projects Showcased:
 [Shortest Path Visualizer](https://share.streamlit.io/supershivam13/shortest_route_visualizer_for_electric_vehicles/main/main.py)\
 Source Code: []()
 
@@ -58,7 +58,7 @@ Source Code: []()
 [Covid Database](https://covidoff.live/viewdata.html)\
 Source Code: []()
 
-[Presentation Deck]()
+### [Presentation Deck](https://github.com/sagnikmitra/streamlit-event/blob/main/Hosting%20your%20First%20WebApp%20on%20Streamlit%20with%20VSCode%20Presentation.pdf)
 
 
 
