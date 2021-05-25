@@ -50,18 +50,18 @@ Run first app:
 streamlit hello
 ```
 
-### Projects Showcased:
-[Shortest Path Visualizer](https://share.streamlit.io/supershivam13/shortest_route_visualizer_for_electric_vehicles/main/main.py)\
-Source Code: [CLICK HERE](https://github.com/supershivam13/Shortest_Route_Visualizer_for_Electric_Vehicles/blob/main/main.py)
+## Projects Showcased:
+### Shortest Path Visualizer
+[WebApp](https://share.streamlit.io/supershivam13/shortest_route_visualizer_for_electric_vehicles/main/main.py) | [Source Code](https://github.com/supershivam13/Shortest_Route_Visualizer_for_Electric_Vehicles/blob/main/main.py)
 
-[Python Face Detection](https://share.streamlit.io/sagnikmitra/face-detection-opencv-streamlit/main/app.py)\
-Source Code: []()
+### Python Face Detection
+[WebApp](https://share.streamlit.io/sagnikmitra/face-detection-opencv-streamlit/main/app.py) | [Source Code]()
 
-[Badge Generator](https://bit.ly/qwiklabs-progress)\
-Source Code: []()
+### Badge Generator
+[WebApp](https://bit.ly/qwiklabs-progress) | [Source Code]()
 
-[Covid Database](https://covidoff.live/viewdata.html)\
-Source Code: []()
+### Covid Database
+[WebApp](https://covidoff.live/viewdata.html) | [Source Code]()
 
 [Presentation Deck]()
 
