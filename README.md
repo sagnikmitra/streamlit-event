@@ -62,6 +62,9 @@ streamlit hello
 ### Covid Database
 [WebApp](https://covidoff.live/viewdata.html) | [Source Code](https://github.com/covidoff/covidoff/tree/main/covidoff-data-portal)
 
+### [Shivam's First Calculator App](./firstapp.py)
+### [Sagnik's Machine Learning App](./main.py)
+
 ## [Presentation Deck](https://github.com/sagnikmitra/streamlit-event/blob/main/Hosting%20your%20First%20WebApp%20on%20Streamlit%20with%20VSCode%20Presentation.pdf)
 
 
