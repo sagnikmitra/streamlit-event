@@ -8,6 +8,7 @@ Shivam Sahu, Alpha Microsoft Learn Student Ambassador
 ## Streamlit Resources:
 ### [Documentation](https://github.com/sagnikmitra/streamlit-event/blob/main/awesome-streamlit-readthedocs-io-en-latest.pdf) 
 ### [Streamlit Cheatsheet](https://share.streamlit.io/daniellewisdl/streamlit-cheat-sheet/app.py)
+### [Blog to help you out](https://sagnikmitra123.medium.com/hosting-your-first-python-web-app-with-streamlit-8970b0cc2dd8)
 
 ## Chat Transcript for the Event:
 
