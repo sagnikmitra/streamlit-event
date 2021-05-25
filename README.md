@@ -1,8 +1,9 @@
 # MLSA Streamlit Event on 25th May, 2021
 ## Hosted By 
 Sagnik Mitra, Beta Microsoft Learn Student Ambassador\
-Shivam Sahu, Alpha Microsoft Learn Student Ambassador
-Find all the Event related source code here.
+Shivam Sahu, Alpha Microsoft Learn Student Ambassador\
+
+#### Find all the Event related source code here:
 
 ## Streamlit Resources:
 ### [Documentation]() 
