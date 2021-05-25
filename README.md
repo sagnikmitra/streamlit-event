@@ -1,50 +1,32 @@
 # MLSA Streamlit Event on 25th May, 2021
 ## Hosted By 
 Sagnik Mitra, Beta Microsoft Learn Student Ambassador\
-Shivam Sahu, Alpha Microsoft Learn Student Ambassador\
+Shivam Sahu, Alpha Microsoft Learn Student Ambassador
 
 #### Find all the Event related source code here:
 
 ## Streamlit Resources:
-### [Documentation]() 
+### [Documentation](https://github.com/sagnikmitra/streamlit-event/blob/main/awesome-streamlit-readthedocs-io-en-latest.pdf) 
 ### [Streamlit Cheatsheet](https://share.streamlit.io/daniellewisdl/streamlit-cheat-sheet/app.py)
 
 ## Chat Transcript for the Event:
 
-[18:08] Sagnik Mitra\
-We will be available in the chat and will be sharing all the details\
-
-[18:10] Sagnik Mitra\
-Microsoft Learn Student Ambassadors
-Become a Student Ambassador. Finding your community is more important than ever as classes and social activities take place virtually. Amplify your impact and bring together your peers to learn new...
-studentambassadors.microsoft.com
 ### [Apply for MLSA](https://studentambassadors.microsoft.com/en-us/apply)
-
-[18:22] Sagnik Mitra\
-Download Visual Studio Code - Mac, Linux, Windows
-Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows. Download Visual Studio Code to experience a redefined code editor, optimized for building and debug...
-code.visualstudio.com
 ### [Download VSCode](https://code.visualstudio.com/download)
-
-[18:24] Sagnik Mitra
 ### [Download Python 3.9](https://www.python.org/downloads/release/python-395)
 
-
-[18:24] Sagnik Mitra\
-Install streamlit:
+#### Install streamlit:
 
 ```
 pip install streamlit
 ```
 
-[18:25] Sagnik Mitra\
-if this is not working:
+#### If this is not working:
 ```
 python -m pip install streamlit
 ```
 
-[18:25] Sagnik Mitra\
-Run first app:
+#### Run first app:
 ```
 streamlit hello
 ```
